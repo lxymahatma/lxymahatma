@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lxymahatma&show_icons=true&count_private=true&&theme=radical&locale=en" alt="lxymahatma" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lxymahatma&show_icons=true&count_private=true&&theme=radical&locale=en" alt="lxymahatma" width="450"/>
 
 ### About me
 
