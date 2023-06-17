@@ -12,7 +12,7 @@
 
 - 🌐 中文, English, 日本語
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" width="40"  alt=""/> **Discord: lxy#4696**
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" width="40"  alt=""/> **Discord: lxymahatma**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lxymahatma&show_icons=true&locale=en&layout=compact" alt="lxymahatma" />
 
