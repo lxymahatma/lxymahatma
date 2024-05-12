@@ -6,10 +6,7 @@
 
 - 🌐 中文, English, 日本語
 
-<div>
-    <img src="https://skillicons.dev/icons?i=discord" height="40" width="40" style="vertical-align:middle" />
-    <strong>Discord: lxymahatma</strong>
-</div>
+<img align="center" src="https://skillicons.dev/icons?i=discord" height="40" width="40" /> **Discord: lxymahatma**
 
 ### Languages
 
