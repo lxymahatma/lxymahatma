@@ -87,4 +87,4 @@
 </div>
 
 </br>
-<img src="https://komarev.com/ghpvc/?username=lxymahatma&label=Profile%20views&color=0e75b6&style=flat" alt="lxymahatma" />
+<img src="https://komarev.com/ghpvc/?username=lxymahatma&label=Profile%20views&color=0e75b6&style=flat" />
