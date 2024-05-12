@@ -69,6 +69,13 @@
 
 </details>
 
+<details>
+<summary>School Projects</summary>
+
+- [PBL2 (Archived)](https://github.com/lxymahatma/PBL2-Project)
+- [PBL3](https://github.com/lxymahatma/PBL3)
+</details>
+
 </br>
 <div>
 <img width="450" src="https://github-readme-stats.vercel.app/api?username=lxymahatma&show_icons=true&count_private=true&&theme=radical&locale=en" />
