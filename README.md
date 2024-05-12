@@ -1,10 +1,12 @@
 ### About me
 
-- 👌 You can call me lxy for the abbreviation
+- 👌 You can call me lxy for abbreviation
 
 - 🏫 Currently studying in Japan at Ritsumeikan University
 
 - 🌐 中文, English, 日本語
+
+- ⌚ Hope to have some time to study Japanese & C/C++/Rust
 
 <img align="center" src="https://skillicons.dev/icons?i=discord" height="40" width="40" /> **Discord: lxymahatma**
 
@@ -66,6 +68,7 @@
   - [QuickSwitchCombination (Archived)](https://github.com/MDMods/QuickSwitchCombination)
   - [SongDesc (Archived)](https://github.com/MDMods/SongDesc)
   - [UIDisable (Archived)](https://github.com/MDMods/UIDisable)
+  - [HiddenQol (Transferred)](https://github.com/MDMods/HiddenQol)
 
 </details>
 
@@ -74,6 +77,7 @@
 
 - [PBL2 (Archived)](https://github.com/lxymahatma/PBL2-Project)
 - [PBL3](https://github.com/lxymahatma/PBL3)
+
 </details>
 
 </br>
