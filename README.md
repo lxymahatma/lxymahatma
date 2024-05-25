@@ -60,10 +60,10 @@
 
 - [MDMods](https://github.com/MDMods)
   - [MuseDashMirror](https://github.com/MDMods/MuseDashMirror)
-  - [CustomHitSound](https://github.com/MDMods/CustomHitSound)
   - [MuseDash.Mod.Template](https://github.com/MDMods/MuseDash.Mod.Template)
   - [BPMDisplay (Archived)](https://github.com/MDMods/BPMDisplay)
   - [ChartReview (Archived)](https://github.com/MDMods/ChartReview)
+  - [CustomHitSound (Archived)](https://github.com/MDMods/CustomHitSound)
   - [FC-AP-Indicator (Archived)](https://github.com/MDMods/FC-AP-Indicator)
   - [QuickSwitchCombination (Archived)](https://github.com/MDMods/QuickSwitchCombination)
   - [SongDesc (Archived)](https://github.com/MDMods/SongDesc)
