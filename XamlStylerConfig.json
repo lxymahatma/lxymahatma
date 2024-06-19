@@ -11,8 +11,8 @@
     "IgnoreDesignTimeReferencePrefix": false,
     "EnableAttributeReordering": true,
     "AttributeOrderingRuleGroups": [
-        "xmlns:*",
         "xmlns, xmlns:x",
+        "xmlns:*",
         "x:Class",
         "x:Key, Key, x:Name, Name, x:Uid, Uid, Title",
         "Grid.Row, Grid.RowSpan, Grid.Column, Grid.ColumnSpan, Canvas.Left, Canvas.Top, Canvas.Right, Canvas.Bottom",
