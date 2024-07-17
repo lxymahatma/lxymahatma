@@ -80,7 +80,7 @@
 <summary>School Projects</summary>
 
 - [PBL2 (Archived)](https://github.com/lxymahatma/PBL2-Project)
-- [PBL3](https://github.com/lxymahatma/PBL3)
+- [PBL3 (Archived)](https://github.com/lxymahatma/PBL3)
 
 </details>
 
