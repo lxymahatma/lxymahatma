@@ -110,6 +110,7 @@
 
 - [PBL2 (Archived)](https://github.com/lxymahatma/PBL2-Project)
 - [PBL3 (Archived)](https://github.com/lxymahatma/PBL3)
+- [PBL4 (Archived)](https://github.com/jesse-grabowski/pbl4-2024)
 
 </details>
 
