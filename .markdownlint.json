@@ -4,15 +4,19 @@
     },
     "MD033": {
         "allowed_elements": [
+            "a",
+            "details",
+            "div",
+            "img",
+            "li",
+            "p",
             "style",
+            "summary",
             "table",
+            "td",
             "th",
             "tr",
-            "td",
-            "img",
-            "div",
-            "details",
-            "summary"
+            "ul"
         ]
     },
     "MD036": false,
