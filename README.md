@@ -87,7 +87,7 @@
 **Minecraft**</br>
 
 <details>
-<summary>Muse Dash Mod & Tools</summary>
+<summary>Muse Dash Mod & Tools (Archived Until Maintainer Found)</summary>
 
 - [MDModsDev](https://github.com/MDModsDev)
 
@@ -101,7 +101,7 @@
   - [ChartReview (Archived)](https://github.com/MDMods/ChartReview)
   - [CustomHitSound (Archived)](https://github.com/MDMods/CustomHitSound)
   - [FC-AP-Indicator (Archived)](https://github.com/MDMods/FC-AP-Indicator)
-  - [QuickSwitchCombination (Archived)](https://github.com/MDMods/QuickSwitchCombination)
+  - [QuickSwitchCombination](https://github.com/MDMods/QuickSwitchCombination) (Maintained by [KARPED1EM](https://github.com/KARPED1EM))
   - [SongDesc (Archived)](https://github.com/MDMods/SongDesc)
   - [UIDisable (Archived)](https://github.com/MDMods/UIDisable)
   - [HiddenQol (Transferred)](https://github.com/MDMods/HiddenQol)
