@@ -105,7 +105,7 @@
   - [QuickSwitchCombination](https://github.com/MDMods/QuickSwitchCombination) (Maintained by [KARPED1EM](https://github.com/KARPED1EM))
   - [SongDesc (Archived)](https://github.com/MDMods/SongDesc)
   - [UIDisable (Archived)](https://github.com/MDMods/UIDisable)
-  - [HiddenQol (Transferred)](https://github.com/MDMods/HiddenQol)
+  - [HiddenQol (Transferred)](https://github.com/MDMods/HiddenQol) (Maintained by [Asgragrt](https://github.com/Asgragrt))
 
 </details>
 
