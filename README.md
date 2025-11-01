@@ -109,9 +109,12 @@
   - [UIDisable (Archived)](https://github.com/MDMods/UIDisable)
   - [HiddenQol (Transferred)](https://github.com/MDMods/HiddenQol) (Maintained by [Asgragrt](https://github.com/Asgragrt))
 
-**Dinkum Mod**
+**Dinkum Mods**
 
-- [Dinkum Mods](https://github.com/lxymahatma/DinkumMods)
+- [SaveLoadPosition](https://github.com/lxymahatma/DinkumMods/tree/master/SaveLoadPosition)
+- [Sprint](https://github.com/lxymahatma/DinkumMods/tree/master/Sprint)
+- [Teleport](https://github.com/lxymahatma/DinkumMods/tree/master/Teleport)
+- [TeleportHome](https://github.com/lxymahatma/DinkumMods/tree/master/TeleportHome)
 
 </details>
 
