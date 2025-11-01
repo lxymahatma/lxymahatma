@@ -88,7 +88,9 @@
 **Minecraft**</br>
 
 <details>
-<summary>Muse Dash Mod & Tools (Archived Until Maintainer Found)</summary>
+<summary>Mods</summary>
+
+**Muse Dash Mods & Tools (Archived Until Maintainer Found)**
 
 - [MDModsDev](https://github.com/MDModsDev)
 
@@ -106,6 +108,10 @@
   - [SongDesc (Archived)](https://github.com/MDMods/SongDesc)
   - [UIDisable (Archived)](https://github.com/MDMods/UIDisable)
   - [HiddenQol (Transferred)](https://github.com/MDMods/HiddenQol) (Maintained by [Asgragrt](https://github.com/Asgragrt))
+
+**Dinkum Mod**
+
+- [Dinkum Mods](https://github.com/lxymahatma/DinkumMods)
 
 </details>
 
