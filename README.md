@@ -73,6 +73,12 @@
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 
+### Operating Systems
+
+<img height="50" width="50" src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg>" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
 ### Frameworks
 
 <div>
