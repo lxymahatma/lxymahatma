@@ -124,6 +124,11 @@
 - [Teleport](https://github.com/lxymahatma/DinkumMods/tree/master/Teleport)
 - [TeleportHome](https://github.com/lxymahatma/DinkumMods/tree/master/TeleportHome)
 
+**Escape from Duckov Mods**
+
+- [LocalizationLib](https://github.com/DuckovModding/LocalizationLib)
+- [MelonCompat](https://github.com/DuckovModding/MelonCompat)
+
 </details>
 
 <details>
