@@ -139,12 +139,5 @@
 - [PBL4 (Archived)](https://github.com/jesse-grabowski/pbl4-2024)
 
 </details>
-
-</br>
-<div>
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=lxymahatma&show_icons=true&count_private=true&&theme=radical&locale=en" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lxymahatma&show_icons=true&locale=en&layout=compact" />
-</div>
-
 </br>
 <img src="https://komarev.com/ghpvc/?username=lxymahatma&label=Profile%20views&color=0e75b6&style=flat" />
