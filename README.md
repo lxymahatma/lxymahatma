@@ -8,7 +8,7 @@
 
 - ⌚ Hope to have some time to study Japanese & C/C++/Rust
 
-- 📖 My personal blog [here](https://lxymahatma.github.io)
+- 📖 My personal blog [here](https://blog.lxymahatma.com)
 
 <img align="center" src="https://skillicons.dev/icons?i=discord" height="40" width="40" /> **Discord: lxymahatma**
 
