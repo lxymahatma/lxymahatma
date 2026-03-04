@@ -110,7 +110,7 @@
   - [MuseDash.Mod.Template](https://github.com/MDMods/MuseDash.Mod.Template)
   - [BPMDisplay (Archived)](https://github.com/MDMods/BPMDisplay)
   - [ChartReview (Archived)](https://github.com/MDMods/ChartReview)
-  - [CustomHitSound (Archived)](https://github.com/MDMods/CustomHitSound)
+  - [CustomHitSound](https://github.com/MDMods/CustomHitSound) (Maintained by [BixbyBob](https://github.com/BixbyBob))
   - [FC-AP-Indicator (Archived)](https://github.com/MDMods/FC-AP-Indicator)
   - [QuickSwitchCombination](https://github.com/MDMods/QuickSwitchCombination) (Maintained by [KARPED1EM](https://github.com/KARPED1EM))
   - [SongDesc (Archived)](https://github.com/MDMods/SongDesc)
