@@ -100,10 +100,8 @@
 
 **Muse Dash Mods & Tools (Archived Until Maintainer Found)**
 
-- [MDModsDev](https://github.com/MDModsDev)
-
-  - [MuseDashModTools](https://github.com/MDModsDev/MuseDashModTools)
-  - [MuseDashModToolsMod](https://github.com/MDModsDev/MuseDashModToolsMod)
+- [Euterpe-org](https://github.com/Euterpe-org)
+  - [Euterpe](https://github.com/Euterpe-org/Euterpe)
 
 - [MDMods](https://github.com/MDMods)
   - [MuseDashMirror](https://github.com/MDMods/MuseDashMirror)
