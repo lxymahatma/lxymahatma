@@ -1,18 +1,15 @@
-### About me
+# Hi, I'm lxy 👋 <img align="right" src="https://komarev.com/ghpvc/?username=lxymahatma&label=Profile%20views&color=0e75b6&style=flat" />
 
-- 👌 You can call me lxy for abbreviation
+Student at Ritsumeikan University.
 
-- 🏫 Currently studying in Japan at Ritsumeikan University
+- 📍 Japan
+- 🌐 中文 · English · 日本語
+- 📚 Currently learning: Rust, Zig & Japanese
+- 🚀 Currently building: [Euterpe](https://github.com/Euterpe-org/Euterpe)
+- 📖 Blog: [blog.lxymahatma.com](https://blog.lxymahatma.com)
+- 💬 Discord: **lxymahatma**
 
-- 🌐 中文, English, 日本語
-
-- ⌚ Hope to have some time to study Japanese & C/C++/Rust
-
-- 📖 My personal blog [here](https://blog.lxymahatma.com)
-
-<img align="center" src="https://skillicons.dev/icons?i=discord" height="40" width="40" /> **Discord: lxymahatma**
-
-### Languages
+## Programming Languages
 
 <table>
   <tr>
@@ -22,86 +19,85 @@
   <tr>
     <td>Level 2 (Intermediate)</td>
     <td>
-    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+      <img src="https://skills.syvixor.com/api/icons?i=csharp" />
     </td>
   </tr>
   <tr>
     <td>Level 1 (Beginner)</td>
     <td>
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+      <img src="https://skills.syvixor.com/api/icons?i=java,python,javascript,typescript,lua,rust" />
     </td>
   </tr>
   <tr>
     <td>Level 0 (Basics)</td>
     <td>
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+      <img src="https://skills.syvixor.com/api/icons?i=c,cpp,zig,html,css,go" />
     </td>
   </tr>
 </table>
 
-### Tools
+## Frameworks
 
-<div>
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />
-</br>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Stack</th>
+  </tr>
+  <tr>
+    <td>Game Engine</td>
+    <td>
+      <img src="https://skills.syvixor.com/api/icons?i=unity,godot" />
+    </td>
+  </tr>
+  <tr>
+    <td>Web</td>
+    <td>
+      <img src="https://skills.syvixor.com/api/icons?i=vue,react,tailwindcss,vite,nodejs" />
+    </td>
+  </tr>
+  <tr>
+    <td>Desktop</td>
+    <td>
+      <img src="https://skills.syvixor.com/api/icons?i=avaloniaui,tauri" />
+    </td>
+  </tr>
+</table>
 
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
+## Tools
 
-</br>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Stack</th>
+  </tr>
+  <tr>
+    <td>Editors &amp; IDEs</td>
+    <td>
+      <img src="https://skills.syvixor.com/api/icons?i=clion,intellijidea,pycharm,rider,visualstudio,vscode,neovim,vim" />
+    </td>
+  </tr>
+  <tr>
+    <td>Other</td>
+    <td>
+      <img src="https://skills.syvixor.com/api/icons?i=anaconda,uv,bun,git,jujutsu,markdown,latex,typst,mysql" />
+    </td>
+  </tr>
+  <tr>
+    <td>Platforms</td>
+    <td>
+      <img src="https://skills.syvixor.com/api/icons?i=windows,apple,linux" />
+    </td>
+  </tr>
+</table>
 
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-</div>
+## Past Works
 
-### Operating Systems
-
-<div>
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</div>
-
-### Frameworks
-
-<div>
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-</div>
-
-### Favorite Games
-
-**Muse Dash**</br>
-**Celeste**</br>
-**Minecraft**</br>
+Most are archived or transferred to other maintainers.
 
 <details>
 <summary>Mods</summary>
 
-**Muse Dash Mods & Tools (Archived Until Maintainer Found)**
-
-- [Euterpe-org](https://github.com/Euterpe-org)
-  - [Euterpe](https://github.com/Euterpe-org/Euterpe)
+**Muse Dash Mods (Archived Until Maintainer Found)**
 
 - [MDMods](https://github.com/MDMods)
   - [MuseDashMirror](https://github.com/MDMods/MuseDashMirror)
@@ -137,5 +133,3 @@
 - [PBL4 (Archived)](https://github.com/jesse-grabowski/pbl4-2024)
 
 </details>
-</br>
-<img src="https://komarev.com/ghpvc/?username=lxymahatma&label=Profile%20views&color=0e75b6&style=flat" />
