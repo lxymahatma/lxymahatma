@@ -5,88 +5,67 @@ Student at Ritsumeikan University.
 - 📍 Japan
 - 🌐 中文 · English · 日本語
 - 📚 Currently learning: Rust, Zig & Japanese
-- 🚀 Currently building: [Euterpe](https://github.com/Euterpe-org/Euterpe)
+- 🚀 Currently building: [Euterpe](https://github.com/Euterpe-org/App)
+- 🛠️ Also maintaining: [MuseDash.Mod.Template](https://github.com/lxymahatma/MuseDash.Mod.Template)
 - 📖 Blog: [blog.lxymahatma.com](https://blog.lxymahatma.com)
 - 💬 Discord: **lxymahatma**
 
-## Programming Languages
+## GitHub Stats
+
+<p>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="200" alt="GitHub stats"
+      src="https://github-stats-extended.vercel.app/api?username=lxymahatma&role=OWNER,ORGANIZATION_MEMBER&show=contributions&include_all_commits=true&show_icons=true&theme_light=light_github&theme_dark=dark_github&hide_border=true"
+    />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="200" alt="Most used languages"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=lxymahatma&role=OWNER,ORGANIZATION_MEMBER&layout=compact&langs_count=10&theme_light=light_github&theme_dark=dark_github&hide_border=true"
+    />
+  </a>
+</p>
+
+## Tech Stack
 
 <table>
   <tr>
-    <th>Level</th>
-    <th>Language</th>
-  </tr>
-  <tr>
+    <th rowspan="3">Languages</th>
     <td>Level 2 (Intermediate)</td>
-    <td>
-      <img src="https://skills.syvixor.com/api/icons?i=csharp" />
-    </td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=csharp" /></td>
   </tr>
   <tr>
     <td>Level 1 (Beginner)</td>
-    <td>
-      <img src="https://skills.syvixor.com/api/icons?i=java,python,javascript,typescript,lua,rust" />
-    </td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=python,lua,rust,javascript,typescript,java" /></td>
   </tr>
   <tr>
     <td>Level 0 (Basics)</td>
-    <td>
-      <img src="https://skills.syvixor.com/api/icons?i=c,cpp,zig,html,css,go" />
-    </td>
-  </tr>
-</table>
-
-## Frameworks
-
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Stack</th>
+    <td><img src="https://skills.syvixor.com/api/icons?i=c,cpp,zig,html,css,go" /></td>
   </tr>
   <tr>
+    <th rowspan="3">Frameworks</th>
     <td>Game Engine</td>
-    <td>
-      <img src="https://skills.syvixor.com/api/icons?i=unity,godot" />
-    </td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=unity,godot" /></td>
   </tr>
   <tr>
     <td>Web</td>
-    <td>
-      <img src="https://skills.syvixor.com/api/icons?i=vue,react,tailwindcss,vite,nodejs" />
-    </td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=vue,react,tailwindcss,vite,nodejs" /></td>
   </tr>
   <tr>
     <td>Desktop</td>
-    <td>
-      <img src="https://skills.syvixor.com/api/icons?i=avaloniaui,tauri" />
-    </td>
-  </tr>
-</table>
-
-## Tools
-
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Stack</th>
+    <td><img src="https://skills.syvixor.com/api/icons?i=avaloniaui,tauri" /></td>
   </tr>
   <tr>
+    <th rowspan="3">Tools</th>
     <td>Editors &amp; IDEs</td>
-    <td>
-      <img src="https://skills.syvixor.com/api/icons?i=clion,intellijidea,pycharm,rider,visualstudio,vscode,neovim,vim" />
-    </td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=clion,intellijidea,pycharm,rider,visualstudio,vscode,neovim,vim" /></td>
   </tr>
   <tr>
     <td>Other</td>
-    <td>
-      <img src="https://skills.syvixor.com/api/icons?i=anaconda,uv,bun,git,jujutsu,markdown,latex,typst,mysql" />
-    </td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=anaconda,uv,bun,git,jujutsu,markdown,latex,typst,mysql" /></td>
   </tr>
   <tr>
     <td>Platforms</td>
-    <td>
-      <img src="https://skills.syvixor.com/api/icons?i=windows,apple,linux" />
-    </td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=windows,apple,linux" /></td>
   </tr>
 </table>
 
@@ -97,19 +76,18 @@ Most are archived or transferred to other maintainers.
 <details>
 <summary>Mods</summary>
 
-**Muse Dash Mods (Archived Until Maintainer Found)**
+**Muse Dash Mods** (archived until a new maintainer is found)
 
 - [MDMods](https://github.com/MDMods)
   - [MuseDashMirror](https://github.com/MDMods/MuseDashMirror)
-  - [MuseDash.Mod.Template](https://github.com/MDMods/MuseDash.Mod.Template)
-  - [BPMDisplay (Archived)](https://github.com/MDMods/BPMDisplay)
-  - [ChartReview (Archived)](https://github.com/MDMods/ChartReview)
-  - [CustomHitSound](https://github.com/MDMods/CustomHitSound) (Maintained by [BixbyBob](https://github.com/BixbyBob))
-  - [FC-AP-Indicator (Archived)](https://github.com/MDMods/FC-AP-Indicator)
-  - [QuickSwitchCombination](https://github.com/MDMods/QuickSwitchCombination) (Maintained by [KARPED1EM](https://github.com/KARPED1EM))
-  - [SongDesc (Archived)](https://github.com/MDMods/SongDesc)
-  - [UIDisable (Archived)](https://github.com/MDMods/UIDisable)
-  - [HiddenQol (Transferred)](https://github.com/MDMods/HiddenQol) (Maintained by [Asgragrt](https://github.com/Asgragrt))
+  - [BPMDisplay](https://github.com/MDMods/BPMDisplay)
+  - [ChartReview](https://github.com/MDMods/ChartReview)
+  - [CustomHitSound](https://github.com/MDMods/CustomHitSound) — maintained by [BixbyBob](https://github.com/BixbyBob) & [Doushabo](https://github.com/Doushabo)
+  - [FC-AP-Indicator](https://github.com/MDMods/FC-AP-Indicator)
+  - [QuickSwitchCombination](https://github.com/MDMods/QuickSwitchCombination) — maintained by [KARPED1EM](https://github.com/KARPED1EM)
+  - [SongDesc](https://github.com/MDMods/SongDesc)
+  - [UIDisable](https://github.com/MDMods/UIDisable)
+  - [HiddenQol](https://github.com/MDMods/HiddenQol) — transferred to [Asgragrt](https://github.com/Asgragrt)
 
 **Dinkum Mods**
 
@@ -128,8 +106,8 @@ Most are archived or transferred to other maintainers.
 <details>
 <summary>School Projects</summary>
 
-- [PBL2 (Archived)](https://github.com/lxymahatma/PBL2-Project)
-- [PBL3 (Archived)](https://github.com/lxymahatma/PBL3)
-- [PBL4 (Archived)](https://github.com/jesse-grabowski/pbl4-2024)
+- [PBL2](https://github.com/lxymahatma/PBL2-Project)
+- [PBL3](https://github.com/lxymahatma/PBL3)
+- [PBL4](https://github.com/jesse-grabowski/pbl4-2024)
 
 </details>
