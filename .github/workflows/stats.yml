@@ -1,0 +1,40 @@
+name: Stats cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&role=OWNER,ORGANIZATION_MEMBER&show=contributions&include_all_commits=true&show_icons=true&theme_light=light_github&theme_dark=dark_github&hide_border=true
+          path: stats/stats.svg
+          token: ${{ secrets.STATS_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&role=OWNER,ORGANIZATION_MEMBER&layout=compact&langs_count=10&theme_light=light_github&theme_dark=dark_github&hide_border=true
+          path: stats/top-langs.svg
+          token: ${{ secrets.STATS_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit cards
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: update stats cards
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          file_pattern: stats/*.svg

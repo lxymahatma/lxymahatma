@@ -13,16 +13,8 @@ Student at Ritsumeikan University.
 ## GitHub Stats
 
 <p>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="200" alt="GitHub stats"
-      src="https://github-stats-extended.vercel.app/api?username=lxymahatma&role=OWNER,ORGANIZATION_MEMBER&show=contributions&include_all_commits=true&show_icons=true&theme_light=light_github&theme_dark=dark_github&hide_border=true"
-    />
-  </a>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="200" alt="Most used languages"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=lxymahatma&role=OWNER,ORGANIZATION_MEMBER&layout=compact&langs_count=10&theme_light=light_github&theme_dark=dark_github&hide_border=true"
-    />
-  </a>
+  <img height="200" alt="GitHub stats" src="stats/stats.svg" />
+  <img height="200" alt="Most used languages" src="stats/top-langs.svg" />
 </p>
 
 ## Tech Stack
